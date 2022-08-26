@@ -6,7 +6,7 @@ Custom Docker images used by the SugarFunge infrastructure
 
 ### Keycloak
 
-**Base:** quay.io/keycloak/keycloak:18.0.0
+**Base:** quay.io/keycloak/keycloak:19.0.1
 
 - Enable metrics
 - Enable feature: token-exchange
